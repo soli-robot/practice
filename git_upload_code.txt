@@ -1,5 +1,5 @@
 git add '파일 이름'
 git commit -m '설명'
 git branch -M main
-git remote add origin https://github.com/soli-robot/practice.git
+git remote add origin 주소
 git push -u origin main
